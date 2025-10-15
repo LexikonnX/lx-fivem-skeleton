@@ -1,0 +1,10 @@
+{
+  "name": "lx-fivem-skeleton-generator",
+  "version": "1.0.1",
+  "type": "module",
+  "bin": {
+    "lxgen": "bin/lxgen.js"
+  },
+  "description": "CLI to scaffold a full FiveM resource for QBCore, ESX, or OX with optional NUI, commands, and locales.",
+  "license": "MIT"
+}
