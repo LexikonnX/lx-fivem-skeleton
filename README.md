@@ -2,7 +2,7 @@
 > Ultimate FiveM Resource Scaffold Generator  
 > Supports **QBcore**, **ESX**, and **OX_LIB** with optional NUI, SQL, callbacks, exports, locales, keybinds, modules, and much more.  
 >  
-> 🦊 byAlex – [GitHub Release](https://github.com/LexikonnX/lx-fivem-skeleton/releases/tag/v1.0)
+> 🦊 Download – [GitHub Release](https://github.com/LexikonnX/lx-fivem-skeleton/releases/tag/v1.0)
 
 ## ⚙️ Overview
 `lx-fivem-skeleton-generator-pro` is a powerful Node.js CLI tool that instantly scaffolds a **complete FiveM resource**.  
@@ -174,4 +174,4 @@ end
 
 ## 🔗 Release
 📦 **Download latest release:**  
-👉 [lx-fivem-skeleton-generator-pro.zip](https://github.com/LexikonnX/lx-fivem-docs/releases/tag/last)
+👉 [lx-fivem-skeleton.zip](https://github.com/LexikonnX/lx-fivem-skeleton/releases/tag/v1.0)
