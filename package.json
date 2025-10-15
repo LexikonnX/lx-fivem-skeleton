@@ -1,10 +1,10 @@
 {
-  "name": "lx-fivem-skeleton-generator",
-  "version": "1.0.1",
+  "name": "lx-fivem-skeleton-generator-pro",
+  "version": "1.5.1",
   "type": "module",
   "bin": {
     "lxgen": "bin/lxgen.js"
   },
-  "description": "CLI to scaffold a full FiveM resource for QBCore, ESX, or OX with optional NUI, commands, and locales.",
+  "description": "Ultra-configurable FiveM resource scaffolder with SQL, DB adapters (oxmysql/ghmatti/mysql-async), callbacks (qb/esx/ox_lib), NUI, events, exports, modules, locales, keybinds and more.",
   "license": "MIT"
 }
